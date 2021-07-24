@@ -108,6 +108,9 @@ p {
     line-height: 1;
   }
 }
+.App {
+  height: 100vh;
+}
 .container {
   background-color: var(--clr-grey-1);
   color: var(--clr-grey-10);
@@ -184,4 +187,14 @@ img {
   .form-container {
     padding-left: 1rem;
   }
+}
+footer {
+  text-align: center;
+  margin-top: 1rem;
+  width: 100%;
+  padding: 10px;
+  font-size: 1.5rem;
+}
+footer a {
+  margin: 4px;
 }
