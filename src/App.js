@@ -52,6 +52,7 @@ function App() {
     <div className="App">
       <section className={`container ${theme}`}>
         <form className="form-container">
+          <h2>Check Profit/Loss on your Stock</h2>
           <article>
             <input
               type="number"

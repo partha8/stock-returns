@@ -135,7 +135,8 @@ p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-content: center;
+  padding-left: 2rem;
+  
 }
 input {
   font-weight: 600;
